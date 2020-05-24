@@ -1,0 +1,69 @@
+body{
+  background-color: #eff;
+  display: inline-block;
+}
+/* head */
+a:hover {
+  text-decoration: none;
+}
+img{
+  border-radius: 100%;
+  padding: 1%;
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+  }
+h1 {
+  font-family:'Montserrat', sans-serif;
+  font-weight: bold;
+  display: inline-block;
+}
+hr {
+  border-style: dashed;
+  border-bottom: 0;
+  color: #222;
+  margin: 2%;
+  width: 40%;
+}
+p {
+  display: block;
+}
+span {
+  font-weight: bolder;
+}
+.row{
+  margin: 1% 2%;
+}
+.description{
+  color: #333;
+  text-align: center;
+  padding: 15% 5%;
+line-height: 1.5;
+}
+.contact-info{
+  text-align: center;
+  padding: 5% 5%;
+line-height: 1.5;
+}
+/* Professional */
+
+.Professional{
+  text-align: left;
+  padding: 1% 13% 1% 5%;
+}
+
+/* Education */
+h3 {
+  color: #444;
+  font-family:'Montserrat', sans-serif;
+  font-weight: bold;
+  margin: 2% 5%;
+}
+td {
+  line-height: 1.5;
+  margin: 5%;
+  padding: 1%;
+}
+.table{
+  font-size: 1rem;
+}
